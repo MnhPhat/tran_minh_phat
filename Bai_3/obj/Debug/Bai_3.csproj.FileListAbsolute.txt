@@ -1,0 +1,7 @@
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_3\bin\Debug\Bai_3.exe.config
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_3\bin\Debug\Bai_3.exe
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_3\bin\Debug\Bai_3.pdb
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_3\obj\Debug\Bai_3.csproj.AssemblyReference.cache
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_3\obj\Debug\Bai_3.csproj.CoreCompileInputs.cache
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_3\obj\Debug\Bai_3.exe
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_3\obj\Debug\Bai_3.pdb

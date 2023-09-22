@@ -1,0 +1,7 @@
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_5\bin\Debug\Bai_5.exe.config
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_5\bin\Debug\Bai_5.exe
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_5\bin\Debug\Bai_5.pdb
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_5\obj\Debug\Bai_5.csproj.AssemblyReference.cache
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_5\obj\Debug\Bai_5.csproj.CoreCompileInputs.cache
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_5\obj\Debug\Bai_5.exe
+D:\LT_Windowns\TranMinhPhat_2121110306\Bai_5\obj\Debug\Bai_5.pdb

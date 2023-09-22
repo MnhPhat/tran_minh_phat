@@ -1,0 +1,2 @@
+D:\LT_Windowns\TranMinhPhat_2121110306\Buoi_1\obj\Debug\Buoi_1.csproj.AssemblyReference.cache
+D:\LT_Windowns\TranMinhPhat_2121110306\Buoi_1\obj\Debug\Buoi_1.csproj.CoreCompileInputs.cache
