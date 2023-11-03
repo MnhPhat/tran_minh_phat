@@ -1,0 +1,10 @@
+D:\LT_Windowns\TranMinhPhat_2121110306_b7\Bai01_buoi7\bin\Debug\Bai01_buoi7.exe.config
+D:\LT_Windowns\TranMinhPhat_2121110306_b7\Bai01_buoi7\bin\Debug\Bai01_buoi7.exe
+D:\LT_Windowns\TranMinhPhat_2121110306_b7\Bai01_buoi7\bin\Debug\Bai01_buoi7.pdb
+D:\LT_Windowns\TranMinhPhat_2121110306_b7\Bai01_buoi7\obj\Debug\Bai01_buoi7.csproj.AssemblyReference.cache
+D:\LT_Windowns\TranMinhPhat_2121110306_b7\Bai01_buoi7\obj\Debug\Bai01_buoi7.Form1.resources
+D:\LT_Windowns\TranMinhPhat_2121110306_b7\Bai01_buoi7\obj\Debug\Bai01_buoi7.Properties.Resources.resources
+D:\LT_Windowns\TranMinhPhat_2121110306_b7\Bai01_buoi7\obj\Debug\Bai01_buoi7.csproj.GenerateResource.cache
+D:\LT_Windowns\TranMinhPhat_2121110306_b7\Bai01_buoi7\obj\Debug\Bai01_buoi7.csproj.CoreCompileInputs.cache
+D:\LT_Windowns\TranMinhPhat_2121110306_b7\Bai01_buoi7\obj\Debug\Bai01_buoi7.exe
+D:\LT_Windowns\TranMinhPhat_2121110306_b7\Bai01_buoi7\obj\Debug\Bai01_buoi7.pdb
